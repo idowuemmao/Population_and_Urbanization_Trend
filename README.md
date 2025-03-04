@@ -39,7 +39,9 @@ This project analyzes global population and urbanization trends from **1970 to 2
 - Low-income countries are experiencing rapid urban population increases, indicating significant migration to urban centers.  
 
 ## 🚀 **Access the Report & Code**  
-🔗 **Live Power BI Report:** [Click Here](https://www.linkedin.com/posts/emmanuel-idowu-analyst_dataanalytics-powerbi-urbanization-activity-7298727853683056641-_fWN)  
+🔗 **Live Power BI Report:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNzYzOWJmNzktYTM0Mi00NTk1LWFhOWEtMTlmMmQwMTcxMGJmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+📂 **Award Post:** [Click Here](https://www.linkedin.com/posts/emmanuel-idowu-analyst_datadna-datadna-datadna-activity-7302609679363248129-Jpss)
+📂 **LinkedIn Post:** [Click Here](https://www.linkedin.com/posts/emmanuel-idowu-analyst_dataanalytics-powerbi-urbanization-activity-7298727853683056641-_fWN)
 
 ## 💡 **How to Use the Report**  
 ✅ Hover over visuals for tooltips and data details.  
